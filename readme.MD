@@ -1,2 +1,2 @@
-### STABLE BACKGROUND
-![<img src="./images/stable-background.png"/>]
+### stable background 
+<img src="./images/stable-background.png"/>
